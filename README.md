@@ -150,7 +150,7 @@
           </p>
         
            
-          </div>
+        
         </article>
 
         <article class="card" id="forms" style="margin-top:14px">
