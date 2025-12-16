@@ -197,7 +197,7 @@
   <script>
     // ตัวอย่าง: หากต้องการเปลี่ยนเป็นลิงค์ Microsoft Forms / ลิงค์จริง ให้แก้ href ตรงนี้
     document.getElementById('quiz-link').href = 'https://forms.cloud.microsoft/r/TwE1xS0TSy';
-    document.getElementById('form-link').href = '[[https://forms.office.com/r/LXATLSje3P](https://forms.office.com/r/LXATLSje3P)](https://forms.office.com/Pages/ResponsePage.aspx?id=vJXxIeUTOUOC6u-Ljs3Qqd_QU-fINK1PkhP7KLumQLZUOEdZNjRFTU9KMDFEMlkzRFgzQVM4UkJEUS4u)';
+    document.getElementById('form-link').href = 'https://forms.office.com/r/LXATLSje3P';
     // สำรอง: ถ้าไม่มีลิงค์จริง จะเปิดหน้าตัวอย่าง
     document.getElementById('quiz-alt').addEventListener('click', e=>{e.preventDefault(); window.open('https://forms.office.com/','_blank')});
     document.getElementById('form-alt').addEventListener('click', e=>{e.preventDefault(); window.open('https://forms.office.com/','_blank')});
