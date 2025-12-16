@@ -149,7 +149,7 @@
             <a class="btn" href="https://forms.office.com/" target="_blank" rel="noopener noreferrer" id="quiz-link">ทำแบบทดสอบ (ตัวอย่าง Microsoft Forms)</a>
             <a class="btn secondary" href="#" style="margin-left:10px" id="quiz-alt">ลิงค์สำรอง</a>
           </p>
-          <div style="margin-top:12px;color:var(--muted)">
+        
            
           </div>
         </article>
