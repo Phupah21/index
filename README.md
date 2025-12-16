@@ -55,7 +55,7 @@
     .note{background:#fbfffb;border-left:4px solid #cfe8e3;padding:10px;border-radius:8px}
   </style>
 </head>
-<body>
+
   <header>
     <div class="container">
       <div class="brand">
@@ -161,7 +161,7 @@
             <a class="btn" href="https://forms.office.com/" target="_blank" rel="noopener noreferrer" id="form-link">เปิดแบบฟอร์ม (ตัวอย่าง)</a>
             <a class="btn secondary" href="#" style="margin-left:10px" id="form-alt">ลิงค์สำรอง</a>
           </p>
-          <div style="margin-top:12px;color:var(--muted)> 
+          
               </div>
         </article>
       </section>
