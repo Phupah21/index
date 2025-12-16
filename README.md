@@ -162,7 +162,7 @@
             <a class="btn secondary" href="#" style="margin-left:10px" id="form-alt">ลิงค์สำรอง</a>
           </p>
           
-              </div>
+           
         </article>
       </section>
 <main>
@@ -201,4 +201,4 @@
     document.getElementById('quiz-alt').addEventListener('click', e=>{e.preventDefault(); window.open('https://forms.office.com/','_blank')});
     document.getElementById('form-alt').addEventListener('click', e=>{e.preventDefault(); window.open('https://forms.office.com/','_blank')});
   </script>
-</body>
+
